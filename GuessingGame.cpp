@@ -1,3 +1,16 @@
+/*
+Aditya Chandrashekaran
+8/30/2024
+This program generates a random number and allows you to try and guess that number.
+It gives you clues on if your guess is higher or lower than the target number.
+If you guess the number the program allows you to play again with a new target number
+
+Rules of C++
+1. No global variables
+2. No strings. Only cstrings
+3. Include <iostream>, not stdio and use new and delete instead of malloc and free
+*/
+
 #include <iostream>
 #include <ctime>
 
